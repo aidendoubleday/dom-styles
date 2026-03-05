@@ -8,4 +8,14 @@ function changeStyle() {
     p.style.color = "grey";
     p.style.fontSize = "40px";
     p.style.textAlign = "center";
+
+    
+    
 }
+
+function resetStyle() {
+    console.log("click");
+}
+
+let p = document.getElementById("text   ");
+
